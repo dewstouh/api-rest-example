@@ -1,4 +1,4 @@
-# 🧠 API REST de Datos Aleatorios (`facts`)
+# API REST de Datos Aleatorios (`facts`)
 
 API RESTful en **TypeScript** con **Express**, modular y con tests usando **Jest + Supertest**.
 
